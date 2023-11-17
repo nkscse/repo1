@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 08C2-ED10
+
+ Directory of C:\GIT\DEMO
+
+17-11-2023  18:09    <DIR>          .
+17-11-2023  18:03    <DIR>          ..
+17-11-2023  18:09                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  391,120,330,752 bytes free
